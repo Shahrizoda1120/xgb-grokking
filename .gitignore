@@ -1,0 +1,9 @@
+# Raw run outputs and downloaded data stay on Google Drive
+results/stage1a/
+data/raw/*.parquet
+data/raw/openml_cache/
+
+# Python and Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
